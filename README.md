@@ -1,0 +1,2 @@
+# Project-Pillow-Library
+Description:  The central purpose of the program is for the user to open an image on their computer by entering the images file path and then adding a filter to the image which in this case the blur filter was chosen. The Pillow library we found to be a very powerful image manipulation library that can do many processes with an image. Besides adding a blur filter the library can be used to add gray scale to an image and enhance the image brightness or sharpness.
