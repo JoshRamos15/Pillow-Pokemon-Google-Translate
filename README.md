@@ -1,2 +1,2 @@
-# Project-Pillow-Library
-Description:  The central purpose of the program is for the user to open an image on their computer by entering the images file path and then adding a filter to the image which in this case the blur filter was chosen. The Pillow library we found to be a very powerful image manipulation library that can do many processes with an image. Besides adding a blur filter the library can be used to add gray scale to an image and enhance the image brightness or sharpness.
+# Project-Pillow-Pokemon-Google-Translate
+Description:  The central purpose of theese programs is to show the understanding of importing of python libraries and making a 3 separate functioning programs. The first program will use the pillow library to add a filter to an image.The second program will translate english language into any of the selected google translate languagues using the google translate api. The third library will display simple ascii art displaying pokemon
